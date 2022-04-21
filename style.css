@@ -1,0 +1,38 @@
+h1{
+    color:teal;
+}
+
+em, #subtitulo{
+    color:blue;
+}
+th.especial, .destacado{
+    color:orange;
+}
+p strong ,th, a{
+    color:red;
+}
+
+
+table, th,tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table caption{
+    color:blue;
+}
+td strong{
+    color:orange;
+}
+
+#adicional{
+    color:olive;
+}
+td, td em,#adicional a{
+    color: green;
+}
+#especial{
+    color:fuchsia;
+}
+.especial{
+    color:fuchsia;
+}
